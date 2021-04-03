@@ -10,7 +10,7 @@
 - Works on CRUD
     - [x] Creation of a tweek
     - [x] Deletion of a tweek
-    - [] Updation of a tweek
+    - [ ] Updation of a tweek
 - Uses sqlite3 for database <br>
 #### Implementations:
 - [x] User signup/signin
